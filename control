@@ -1,8 +1,8 @@
 Package: com.chr1s.nonewcontactphotoavailablebanner
 Name: NoNewContactPhotoAvailableBanner
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Hide the "New contact photo available" banner in iMessage chats
 Maintainer: Chr1s
 Author: Chr1s
 Section: Tweaks
